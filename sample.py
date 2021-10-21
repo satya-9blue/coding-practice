@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
-c=a+b
-print(c)
+num1=int(input())
+num2=int(input())
+num=num1+num2
+print(num)
 

@@ -1,8 +1,8 @@
-num1=int(input())
-num2=int(input())
-if num1>num2:
-    print("num1 is greater than num2")
-elif num1<num2:
-    print("num1 is less than num2")
+a=int(input())
+b=int(input())
+if a>b:
+    print("a is greater than b")
+elif a<b:
+    print("a is less than b")
 else:
     print("both are same")
